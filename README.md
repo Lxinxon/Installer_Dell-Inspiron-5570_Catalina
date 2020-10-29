@@ -1,0 +1,1 @@
+# Installer_Dell-Inspiron-5570_Catalina
