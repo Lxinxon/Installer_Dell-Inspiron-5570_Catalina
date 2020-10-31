@@ -1,3 +1,6 @@
+- I have a real Macbook which is what makes most of this possible, just fyi.
+- starting from scratch without one isn't impossible but not as simple, nor allows clean access to the Catalina installer
+
 # Installer_Dell-Inspiron-5570_Catalina
 USB installer image for MacOS Catalina for a Dell Inspiron 5570
 
