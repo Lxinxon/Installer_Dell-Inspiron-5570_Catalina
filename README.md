@@ -1,6 +1,9 @@
 # Installer_Dell-Inspiron-5570_Catalina
 USB installer image for MacOS Catalina for a Dell Inspiron 5570
 
+# Video Tutorial
+https://youtu.be/6Cb-_b1Hahw
+
 
 ## Before you Install
 
