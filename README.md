@@ -12,6 +12,10 @@ https://youtu.be/6Cb-_b1Hahw
 
 - Download this: https://github.com/stayboogy/Hackintosh_Dell-Inspiron-5570_Catalina.git  extract, and put the files on another usb drive formatted fat32, this is very important
 
+# Download Installer img in Larger Chunks
+
+- http://www.mediafire.com/folder/alrtfr45od6uw/Catalina_USB
+
 ## How to Install
 For Advanced Users ONLY
 
