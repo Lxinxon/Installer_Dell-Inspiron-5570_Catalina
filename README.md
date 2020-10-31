@@ -2,11 +2,12 @@
 - starting from scratch without one isn't impossible but not as simple, nor allows clean access to the Catalina installer
 
 # Installer_Dell-Inspiron-5570_Catalina
-USB installer image for MacOS Catalina for a Dell Inspiron 5570
+
+- USB installer image for MacOS Catalina for a Dell Inspiron 5570
 
 ## Video Tutorial
-https://youtu.be/6Cb-_b1Hahw
 
+- https://youtu.be/6Cb-_b1Hahw
 
 ## Before you Install
 
